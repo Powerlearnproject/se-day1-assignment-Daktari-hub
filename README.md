@@ -31,7 +31,6 @@ Impact: OOP made it easier to manage complex software projects by promoting code
 Description: Agile methodologies arose as a response to the limitations of traditional, plan-driven approaches like the Waterfall model, which were often too rigid to accommodate the fast-changing requirements of modern software projects. Agile promotes iterative development, collaboration, and adaptability, with frameworks like Scrum and Extreme Programming (XP) becoming popular.
 Impact: Agile methodologies transformed how software is developed, emphasizing customer collaboration, continuous delivery, and the ability to quickly respond to change. This has become particularly important in today's fast-paced technology environment, where time-to-market is crucial.
 
-
 List and briefly explain the phases of the Software Development Life Cycle.
 Requirement Gathering and Analysis
 Description: In this phase, stakeholders' needs are collected and documented. The goal is to understand what the software should do and to identify any constraints. Requirements are analyzed for feasibility, and a clear specification is created, which serves as a foundation for the rest of the development process.
@@ -45,7 +44,6 @@ Description: After coding, the software is rigorously tested to identify and fix
 Description: Once the software has passed all testing phases, it is deployed to the production environment, where it becomes available to users. This phase may involve installation, configuration, and user training. Deployment strategies might include phased rollouts or full implementation.
 6. Maintenance
 Description: After deployment, the software enters the maintenance phase, where it is monitored for any issues that arise in the live environment. Maintenance includes fixing bugs, updating the software to handle new requirements, and ensuring the system remains operational and efficient over time.
-
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 Waterfall Methodology
